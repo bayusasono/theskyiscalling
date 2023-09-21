@@ -1,0 +1,38 @@
+html {
+  background-color:#222222;
+}
+
+body {
+  background-color: #222222;
+  margin: 1em 1em;
+  padding: 24px;
+/*   border: thin solid white; */
+}
+
+h1 {
+  color: #FACC15;
+  font-family: Inter;
+}
+
+p {
+  color: white;
+  font-family: Inter;
+}
+
+a {
+  color: #0ea5e9;
+}
+
+#mySketch {
+  border-radius: 1.5em;
+  overflow: hidden;
+}
+
+/* html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+ */
